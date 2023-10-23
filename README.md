@@ -1,2 +1,2 @@
-# CursoWebApiAspNetCore
+# API REST 
 Api REST com ASP.NET Core WebAPI
